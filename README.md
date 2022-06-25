@@ -51,14 +51,14 @@ $$
 
 ## 下载使用
 
-
+[release](https://github.com/MiracleHYH/Visual-Analysis-of-Linear-Circuit/releases)
 
 ## 修改&复用
 
 1. 下载源码
 
    ```shell
-   git clone
+   git clone git@github.com:MiracleHYH/Visual-Analysis-of-Linear-Circuit.git
    ```
 
 2. 将路径整个文件路径添加到matlab路径中
